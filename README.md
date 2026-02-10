@@ -1,12 +1,3 @@
-```
- ██████╗ ██╗  ██╗    ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
-██╔═══██╗██║  ██║    ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-██║   ██║███████║    ███████║█████╗  ██║     ██║     ██║   ██║
-██║   ██║██╔══██║    ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-╚██████╔╝██║  ██║    ██║  ██║███████╗███████╗███████╗╚██████╔╝
- ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
-```
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5D59FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+michele-akina+%24+whoami;%3E+developer+%7C+builder+%7C+problem+solver" alt="Typing SVG" />
@@ -29,29 +20,9 @@ CURRENT_MISSION="building Akina"
 echo "👋 Welcome to my terminal."
 echo "🔧 I write code. I break things. I fix them. Repeat."
 echo "📡 Always learning. Always shipping."
+echo "If I can, I lean on 🦀."
+
 ```
-
----
-
-### `> neofetch --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michele-akina&show_icons=true&bg_color=0d1117&hide_border=true&icon_color=ddfcad&title_color=5d59ff&text_color=eae2d4&ring_color=5d59ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michele-akina&layout=compact&bg_color=0d1117&hide_border=true&title_color=5d59ff&text_color=eae2d4&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-### `> wakatime --weekly-report`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=michele-akina&bg_color=0d1117&hide_border=true&title_color=5d59ff&text_color=eae2d4&layout=compact" alt="Wakatime Stats"/>
-
-</div>
 
 ---
 
