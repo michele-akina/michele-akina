@@ -20,7 +20,7 @@ CURRENT_MISSION="building Akina"
 echo "👋 Welcome to my terminal."
 echo "🔧 I write code. I break things. I fix them. Repeat."
 echo "📡 Always learning. Always shipping."
-echo "If I can, I lean on 🦀."
+echo "🦀 If I can, I lean on Ferris."
 
 ```
 
