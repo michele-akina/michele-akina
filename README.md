@@ -4,26 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:5d59ff,100:ddfcad&height=150&section=header&text=&animation=twinkling" width="100%"/>
 </div>
 
----
-
-### `> cat /etc/about_me`
-
-```bash
-#!/bin/bash
-
-ALIAS="michele-akina"
-LOCATION="$(curl -s ifconfig.me/city)"
-CURRENT_MISSION="building Akina"
-
-echo "👋 Welcome to my terminal."
-echo "🔧 I write code. I break things. I fix them. Repeat."
-echo "📡 Always learning. Always shipping."
-echo "🦀 If I can, I lean on Ferris."
-
-```
-
----
-
 ### `> cat /var/log/activity.log`
 
 <div align="center">
