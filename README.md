@@ -8,10 +8,3 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=michele-akina&theme=dark&background=0D1117&ring=5d59ff&fire=ddfcad&currStreakLabel=5d59ff&sideLabels=5d59ff&currStreakNum=eae2d4&sideNums=eae2d4&dates=555555&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
-
----
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michele-akina&bg_color=0d1117&color=eae2d4&line=5d59ff&point=ddfcad&area=true&area_color=5d59ff&hide_border=true&custom_title=%F0%9F%94%A5%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
-</div>
-
-
